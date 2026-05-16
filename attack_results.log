@@ -1,0 +1,8 @@
+2026-04-26 18:14:42 - INFO - Experiment: DPatch Upper Left Corner
+2026-04-26 18:14:42 - INFO - Model: Faster RCNN
+2026-04-26 18:14:42 - INFO - Method: Dpatch
+2026-04-26 18:14:42 - INFO - PATCH_HEIGHT  = 75, PATCH_WIDTH   = 75, LEARNING_RATE  = 10.0 MAX_ITER = 200
+2026-04-26 18:14:42 - INFO - Clean Avg Confidence: 0.9977
+2026-04-26 18:14:42 - INFO - Patched Avg Confidence: 0.9976
+2026-04-26 18:14:42 - INFO - otal Confidence Drop: 0.0000
+2026-04-26 18:14:42 - INFO - ------------------------------
