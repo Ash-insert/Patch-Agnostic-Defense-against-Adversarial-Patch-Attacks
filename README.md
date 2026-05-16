@@ -12,5 +12,5 @@ sults show that the implemented PAD framework effectively localizes adversarial 
 and improves detection robustness against diverse patch attacks.
 
 Contributors:
-Aniket Hinge </b>
-Riya S Huddar
+* Aniket Hinge 
+* Riya S Huddar
